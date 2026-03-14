@@ -27,6 +27,14 @@ the planet? This project analyzes 3,000 records spanning 2015–2024 to find out
 - **Low prices hide real costs** — cheaper brands tend to score worse on environmental
   impact, suggesting the true cost is paid by workers and ecosystems, not consumers
 
+  ## Charts
+
+![Sustainability by Brand](charts/chart_sustainability_by_brand.png)
+![Worker Wages vs Ethical Rating](charts/chart_wages_vs_ethics.png)
+![Social Media vs Sustainability](charts/chart_social_vs_sustainability.png)
+![Carbon Emissions Over Time](charts/chart_carbon_over_time.png)
+![Price vs Sustainability](charts/chart_price_vs_sustainability.png)
+
 ## Tools & Libraries
 
 | Tool | Purpose |
